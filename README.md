@@ -17,13 +17,13 @@ section
 # CSS properties are
 background-image,height,background-position,background-size
 
-![Alt text](Screenshot6.png)
+![Alt text](Screenshot3.png)
 ## HTML tags used are
 section,div,h3,img,a,a:hover
 # CSS properties are
 display(grid),grid-template-columns,display(flex),justify-content,align-items,gap,width,height,margin,padding,max-width,transition,white-space,transform,flex-direction
 
-![Alt text](Screenshot2.png)
+![Alt text](Screenshot4.png)
 ## HTML tags used are
 footer,div,h3,ul,a,li
 # CSS properties are
